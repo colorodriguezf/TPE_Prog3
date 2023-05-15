@@ -33,6 +33,7 @@ GrafoDirigido y la implementación de la clase Arco, que se muestran resumidamen
     }
 
 Será necesario:
+
 ● Elegir una estructura de implementación capaz de almacenar el conjunto de vértices (valores
 enteros) y el conjunto de arcos (tipo de datos parametrizado T)
 ● Implementar cada uno de los métodos públicos propuestos por la interfaz.
