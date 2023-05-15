@@ -35,16 +35,18 @@ GrafoDirigido y la implementación de la clase Arco, que se muestran resumidamen
 Será necesario:
 
 ● Elegir una estructura de implementación capaz de almacenar el conjunto de vértices (valores
-enteros) y el conjunto de arcos (tipo de datos parametrizado T)
+enteros) y el conjunto de arcos (tipo de datos parametrizado T).
+
 ● Implementar cada uno de los métodos públicos propuestos por la interfaz.
+
 ● Detallar la complejidad de cada uno de los métodos implementados de acuerdo a la estructura
 elegida.
 
 Se propone el siguiente formato para explicitar la complejidad de cada método:
-/**
-* Complejidad: O(X) donde X es ... debido a que debe
-* "realizar lo siguiente" para verificar si existe un arco.
-*/
+
+    Complejidad: O(X) donde X es ... debido a que debe
+    "realizar lo siguiente" para verificar si existe un arco.
+
 
 Una vez implementado el contenedor Grafo se deberán resolver las tres funciones siguientes, también
 respetando la interfaz propuesta en las clases ServicioBFS, ServicioDFS y ServicioCaminos.
